@@ -31,8 +31,6 @@ The chatbot retrieves relevant information from documents and generates answers 
 RAG-ChatBot/
 │
 ├── app.py
-├── data/
-│   └── sample.txt
 ├── requirements.txt
 └── README.md
 
